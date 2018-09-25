@@ -29,7 +29,7 @@ In Scrum When should tasks be assigned?
 ans-
 In theory Scrum teams are cross-functional and self-organising
 the whole team is responsible for the Sprint Backlog (and achieving the Sprint Goal).
-As long as the team can agree on how the work gets done in the Sprint Planning meeting then it’s not strictly necessary to apportion every task to a team member.
+As long as the team can agree on how the work gets done in the Sprint Planning meeting then itÂ’s not strictly necessary to apportion every task to a team member.
 Ref.https://manifesto.co.uk/
 
 Question5
