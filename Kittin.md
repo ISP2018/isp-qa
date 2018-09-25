@@ -10,7 +10,8 @@
 
 **Q5:** What are disadvantages of agile Methodology? 
 
-***
+---
+
 # Answers
 **A1:**
 
@@ -31,6 +32,6 @@ Because if your set the initial capacity too high it will makes an iteration ove
 **A5:** 
 
 1. With a less successful project manager, the project can become a series of code sprints. If this happens, the project is likely to come in late and over budget
-2. As the initial project doesn’t have a definitive plan, the final product can be grossly different than what was initially intended.
+2. As the initial project doesnÂ’t have a definitive plan, the final product can be grossly different than what was initially intended.
 
 
