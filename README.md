@@ -11,21 +11,21 @@ You can also view these on [github.io](https://ISP2018.github.io/isp-qa)
 
 | Questions by Author        | Comment |
 |----------------------------|---------|
-| [Dechabhol](Dechabhol.md)  |       |
+| [Dechabhol](Dechabhol.md)  | Q1 contains 2 questions. |
 | [Gunthee](Gunthee.md)  |       |
-| [Hayato](Hayato.md)  |       |
-| [Ingkharat](Ingkharat.md)  |       |
+| [Hayato](Hayato.md)  | Markdown incorrect, don't indent. |
+| [Ingkharat](Ingkharat.md)  | Grammar and punctuation errors. Answers all copied verbatim (give your own answers).|
 | [Katapon](Katapon.md)  |       |
 | [Kavinthip](Kavinthip.md)  |       |
 | [Kittin](Kittin.md)  |       |
-| [Korawit](Korawit.md)  |       |
+| [Korawit](Korawit.md)  | Good questions. |
 | [Kornphon](Kornphon.md)  |       |
 | [Kunyaruk](Kunyaruk.md)  |       |
 | [Manusporn](Manusporn.md)  |       |
 | [Napasai](Napasai.md)  |       |
 | [Narisa](Narisa.md)  |       |
 | [Natch](Natch.md)  |       |
-| [Pakanon](Pakanon.md)  |       |
+| [Pakanon](Pakanon.md)  | Two "Q3". Missing one answer. |
 | [Pichaaun](Pichaaun.md)  |       |
 | [Pittayoot](Pittayoot.md)  |       |
 | [Piyaphol](Piyaphol.md)  |       |
