@@ -1,38 +1,39 @@
-# 5 good questions concerning important things for a software developer to know.
+# Five important things for a software developer to know
 
 ## Software process
-#### Question 1: In the Software Development Process we have the software specification step, what is the main purpose of this step?
+Q1: In the Software Development Process we have the software specification step, what is the main purpose of this step?
 
-#### Answer: The main purpose of the software specification step is so that we can define the main functionalities of the software and the obstacle surrounding it.
+> Answer: The main purpose of the software specification step is so that we can define the main functionalities of the software and the obstacle surrounding it.
 ---
 
 ## Good practices or habits, as in Practices of an Agile Developer or The Clean Coder
-#### Question 2: Lets talk about naming conventions, as this is very important in terms of coding. Put an "x" in the correct boxes below. There are 3 correct answers. (Java code down below)
+Q2: Lets talk about naming conventions, as this is very important in terms of coding. Put an "x" in the correct boxes below. There are 3 correct answers. (Java code down below)
 
-#### [ ]: public double AddNumbers(double a, double b)
-#### [ ]: private final DAYSINYEAR = 365;
-#### [ ]: private int storeAge = 0;
-#### [ ]: public class human
-#### [ ]: public String getname(String name)
-#### [ ]: public class Aeroplane
+- [ ] public double AddNumbers(double a, double b)
+- [ ] private final DAYSINYEAR = 365;
+- [ ] private int storeAge = 0;
+- [ ] public class human
+- [ ] public String getname(String name)
+- [ ] public class Aeroplane
 
-#### Answers:
-#### [ ]: public double AddNumbers(double a, double b)
-#### [x]: private final DAYSINYEAR = 365;
-#### [x]: private int storeAge = 0;
-#### [ ]: public class human
-#### [ ]: public String getname(String name)
-#### [x]: public class Aeroplane
+Answers:
+> - [ ] public double AddNumbers(double a, double b)
+> - [x] private final DAYSINYEAR = 365;
+> - [x] private int storeAge = 0;
+> - [ ] public class human
+> - [ ] public String getname(String name)
+> - [x] public class Aeroplane
 ---
 
 ## Code related practices, such as using git, Github flow, coding style, unit testing
-#### Question 3: Why do we write documentations?
 
-#### 1. Documentations are written for new programmers so that they can understand your code.
+Question 3: Why do we write documentation?
 
-#### 2. Documentations are written for the future occasion, in case you want to come improve the code.
+1. Documentation is written for new programmers so that they can understand your code.
 
-#### 3. Documentations are written to explain the purpose of functions, subroutines, variables, and constants.
+2. Documentation is written for the future occasion, in case you want to come improve the code.
+
+3. Documentation is written to explain the purpose of functions, subroutines, variables, and constants.
 
 #### Answers: 3. Documentations are written to explain the purpose of functions, subroutines, variables, and constants.
 
