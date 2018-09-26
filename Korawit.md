@@ -16,7 +16,7 @@ Don’t waste time thinking about integrating your code until the very end of th
 We’ve got this beautiful project plan with all the tasks and deliverables scheduled for the next three years. When we release the product then, we’ll capture the market!!!
 <BR>
 
----
+***
 **Q2** : What are the right things to do, according to PAD? (Check 3 correct answers.)
 
 :white_circle:  You are about to write some new code, and the first decision you need to make is where to put it. It doesn’t really matter where it goes, so just go ahead and add it to the class that happens to be open in your IDE now. It’s easier to keep track of code when it’s all in one big class or component anyway. <BR>
@@ -31,7 +31,7 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 
 :white_circle: Publish your status, your ideas and the neat things you’re looking at. Don’t wait for others to ask you the status of your work. <BR>
 
----
+***
 **Q3** : When you push somethings to git, what does it accualy do?
 
 :white_circle: Find differences between your latest files and your recently committed files then add it. <BR>
@@ -44,7 +44,7 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 
 :white_circle: Find differences between your lastest files and your recently committed files then deleted the differences before add it <BR>
 
----
+***
 **Q4** : What is the most important Software Development Skill?
 
 :white_circle: Solving Problems<BR>
@@ -59,12 +59,11 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 
 :white_circle: All the above <BR>
 
----
-
+***
 **Q5** : Why are good names important in programming?
 
 
-***
+---
 Answers
 ---
  A1: 
