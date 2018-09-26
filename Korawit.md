@@ -1,13 +1,14 @@
 Questions
 ---
 
-**Q1** : According to PAD, Match the number of following good things to do that related to the bad things that you wouldn't do in agile developer 
+**Q1** : Match the numbered items with the related problem, based on the advice in PAD. 
 
-    1. Tackle tasks before they bunch up.
-    2.Integrate early, integrate often.
-    3.Develop in increments.
-    4.Use it before you build it.
-    5.Raise the bar for you and your team.
+1. Tackle tasks before they bunch up.    
+2. Integrate early, integrate often.    
+3. Develop in increments.    
+4. Use it before you build it.    
+5. Raise the bar for you and your team.    
+    
 - [ ]  Don’t share what you know keep it to yourself.<BR>
 - [ ] 
 Don’t waste time thinking about integrating your code until the very end of the development phase, or at least until development is well underway <BR>
@@ -15,8 +16,8 @@ Don’t waste time thinking about integrating your code until the very end of th
 We’ve got this beautiful project plan with all the tasks and deliverables scheduled for the next three years. When we release the product then, we’ll capture the market!!!
 <BR>
 
-***
-**Q2** : What is the right things to do according to PAD? (Check 3 correct answers.)
+---
+**Q2** : What are the right things to do, according to PAD? (Check 3 correct answers.)
 
 :white_circle:  You are about to write some new code, and the first decision you need to make is where to put it. It doesn’t really matter where it goes, so just go ahead and add it to the class that happens to be open in your IDE now. It’s easier to keep track of code when it’s all in one big class or component anyway. <BR>
 
@@ -30,8 +31,8 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 
 :white_circle: Publish your status, your ideas and the neat things you’re looking at. Don’t wait for others to ask you the status of your work. <BR>
 
-***
-**Q3** : When you push somethings to git,what does it accualy do?
+---
+**Q3** : When you push somethings to git, what does it accualy do?
 
 :white_circle: Find differences between your latest files and your recently committed files then add it. <BR>
 
@@ -43,8 +44,8 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 
 :white_circle: Find differences between your lastest files and your recently committed files then deleted the differences before add it <BR>
 
-***
-**Q4** : What is the most important Software Developer Skills?
+---
+**Q4** : What is the most important Software Development Skill?
 
 :white_circle: Solving Problems<BR>
 
@@ -56,17 +57,17 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 
 :white_circle: Technical skills<BR>
 
-:white_circle: 
-All above <BR>
+:white_circle: All the above <BR>
 
-***
-**Q5** : Why does it require for naming  good names in programming?
+---
+
+**Q5** : Why are good names important in programming?
 
 
 ***
 Answers
 ---
- A1 : 
+ A1: 
 - [5]  Don’t share what you know keep it to yourself.<BR>
 - [2] 
 Don’t waste time thinking about integrating your code until the very end of the development phase, or at least until development is well underway <BR>
@@ -77,7 +78,7 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 >Ref: [PAD]() Tips 6,14,17
 
 ***
-A2 : 
+A2: 
 
 :white_circle:  You are about to write some new code, and the first decision you need to make is where to put it. It doesn’t really matter where it goes, so just go ahead and add it to the class that happens to be open in your IDE now. It’s easier to keep track of code when it’s all in one big class or component anyway. <BR>
 
@@ -94,16 +95,16 @@ A2 :
 >Ref: [PAD]() Tips  31,34,45
 
 ***
-A3 : The answer is "Add whole new files".When you commit some files to git ,it acctually add that whole files with the hashcode which provide you to trace or bring back your old files if somethings wrong and also keep the history of what you have done.
+A3: The answer is "Add whole new files". When you commit some files to git, it acctually adds that whole files with the hashcode which provides you a reference or bring back your old files if somethings wrong and also keeps the history of what you have done.
 
 >Ref: [git--everything-is-local](https://git-scm.com/docs/git-push)
 
 ***
-A4 : The answer is all above.
+A4: The answer is all the above.
 
 >Ref: [The 5 Most Important Software Developer Skills](https://simpleprogrammer.com/the-4-most-important-skills-for-a-software-developer/#solving-problems)
 
 ***
-A5 : Because names are everywhere in software. We name our variables, our functions, our arguments, classes, and packages. We name our source files and the directories that contain them. We name our jar files and war files and ear files.Then, because we do so much of it, we’d better do it well. 
+A5: Because names are everywhere in software. We name our variables, our functions, our arguments, classes, and packages. We name our source files and the directories that contain them. We name our jar files and war files and ear files.Then, because we do so much of it, we’d better do it well. 
 
 >Ref: [Clean Code](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf) : Meaningful Names by Tim Ottinger (p.17)
